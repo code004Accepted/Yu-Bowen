@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/WZKSDN/OIer/raw/master/on_server/logo-white.png" />
+<img src="https://github.com/code004Accepted/Yu-Bowen/logo.gif" />
 </p>
 
 <h1 align="center">Yu Bowen</h1>
