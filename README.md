@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/code004Accepted/Yu-Bowen/logo.gif" />
+<img src="https://raw.githubusercontent.com/code004Accepted/Yu-Bowen/master/logo.gif" />
 </p>
 
 <h1 align="center">Yu Bowen</h1>
